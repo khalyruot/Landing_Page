@@ -26,7 +26,7 @@ hr {
 
 }
 .btn-xl {
-  padding: 1rem 2 rem;
+  padding: 1rem 2rem;
 }
 
 .btn-primary {
@@ -42,4 +42,8 @@ hr {
 
 .buffer{
   height:10rem;
+}
+
+.row{
+  text-align: center;
 }
