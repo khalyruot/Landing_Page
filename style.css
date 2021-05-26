@@ -20,13 +20,13 @@ hr {
 }
 
 .btn {
-  font-weight:700;
-  border-radius: 300px;
+  font-weight:600;
+  border-radius: 150px;
   text-transform: uppercase;
 
 }
 .btn-xl {
-  padding: 1rem 2rem;
+  padding: 1rem 2.5rem;
 }
 
 .btn-primary {
@@ -41,10 +41,6 @@ hr {
 }
 
 .buffer{
-  height:10rem;
+  height:9rem;
 }
 
-.row{
-  align-items: center;
-  text-align: center;
-}
